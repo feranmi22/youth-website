@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h5 a{
+    text-decoration: none;
+    color: black;
+}
+.link{
+    text-decoration: none;
+    color: gray;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.corner{
+    background: url(img/corner\ y.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.col-md-3{
+    padding-top: 10px;
+}
+.modal-body .text{
+    display: flex;
+    justify-content: space-between;
+}
+.modal-body .text p{
+    font-size: 16px;
+    margin-right: 20px;
+}
+.modal-body .image-modal{
+    margin-left: 120px;
+    border-radius: 70%;
+}
+.modal-body .text h5{
+    margin-left: 20px;
+}
+#navbarSupportedContent{
+    line-height: 3;
+}
+.modal-footer a{
+    text-decoration: none;
+    padding: 8px 10px;
+    background: green;
+    color: white;
+    border-radius: 8px;
+}
+.modal-footer a:hover{
+    color: white;
+    background: darkgreen;
+}
+#staticBackdropLabel{
+    text-transform: uppercase;
+    margin-left: 160px;
+    letter-spacing: 5px;
+}
+.form form{
+    width: 40%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.col-md-3.col-lg-3.col-xl-3{
+    padding-bottom: 20px;
+}
+.col-md-4.col-lg-3.col-xl-3.mx-auto.mt-5 i{
+    font-size: 25px;
+    padding-left: 5px;
+}
+
+
